@@ -63,7 +63,7 @@ function loadClient() {
         });
     });
         gapi.load("client:auth2", function() {
-            gapi.auth2.init({client_id: "YOUR_CLIENT_ID"});
+            gapi.auth2.init({client_id: "AIzaSyDlB9W5k4M1u608QhpywfLeOR3xilpbJDA"});
         });
 
     
